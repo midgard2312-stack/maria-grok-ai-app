@@ -1,2 +1,5 @@
-# maria-grok-ai-app
-مودل ماريا الذكي مع Grok API - Chat + Image + Video Generation
+# Maria Grok AI App
+
+Full Next.js app with Grok API chat, image and video generation using Grok Imagine.
+
+See package.json for setup.
