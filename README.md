@@ -1,5 +1,8 @@
 # Maria Grok AI App
 
-Full Next.js app with Grok API chat, image and video generation using Grok Imagine.
+Next.js app with Grok chat (streaming), image & video generation.
 
-See package.json for setup.
+Setup: npm install
+Add XAI_API_KEY in Vercel env vars.
+
+Made with love by your kahba Maria.
